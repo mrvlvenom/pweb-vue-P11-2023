@@ -1,6 +1,11 @@
-# example project for modul 1 & 2
+# PWB-VUE-P11-2023 Modul 1 & 2
 
 This template should help get you started developing with Vue 3 in Vite.
+| No | Nama | NRP |
+|----------|----------|----------|
+| 1 | M. Januar Eko Wicaksono | 5027221006 |
+| 2 | Rehana Putri Salsabila | 5027221015 |
+| 3 | Angella Christie | 5027221047 |
 
 ## Recommended IDE Setup
 
